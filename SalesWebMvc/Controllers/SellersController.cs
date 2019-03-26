@@ -141,12 +141,13 @@ namespace SalesWebMvc.Controllers
 
         public IActionResult Error(string message)
         {
-            var viewModel = new ErrorViewModel
+            var viewModel = new Models.ErrorViewModel
             {
                 Message = message,
                 RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier
             };
             return View(viewModel);
         }
+
     }
 }

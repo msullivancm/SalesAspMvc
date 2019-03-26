@@ -43,3 +43,4 @@ G:\Meu Drive\ProjetosVisualStudio\workshop-asp-net-core-mvc-master\SalesWebMvc\o
 G:\Meu Drive\ProjetosVisualStudio\workshop-asp-net-core-mvc-master\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 G:\Meu Drive\ProjetosVisualStudio\workshop-asp-net-core-mvc-master\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 G:\Meu Drive\ProjetosVisualStudio\workshop-asp-net-core-mvc-master\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+G:\Meu Drive\ProjetosVisualStudio\workshop-asp-net-core-mvc-master\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Endereco\Index.g.cshtml.cs
